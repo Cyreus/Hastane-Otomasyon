@@ -1,0 +1,31 @@
+#orta_div{
+    position:absolute;
+    width:19%;
+    height:500px;
+    background:#f8f9fa;
+    top: 355px;
+    opacity:1;
+    
+}
+.orta_div{
+    position:absolute;
+    width:60%;
+    height:500px;
+    background:#ccc8c8;
+    top: 100px;
+    left:500px;
+    opacity:1;
+    justify-content: center;
+    text-align: center;
+    
+}
+.randevularim{
+    position:absolute;
+    width:60%;
+    height:500px;
+    top: 100px;
+    left:500px; 
+    justify-content: center;
+    text-align: center;
+}
+
